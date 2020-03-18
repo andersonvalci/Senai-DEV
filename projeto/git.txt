@@ -1,0 +1,4 @@
+Git é um sistema para controle de versões de um projeto, onde você tem todo o histórico de atualizações
+e pode recuperar determinado código de versões anteriores do projeto caso seja necessário.
+Além disso, ele serve para se ter controle de todas as informações de alterações realizadas por vários programadores
+que estejam trabalhando em um único projeto. 
